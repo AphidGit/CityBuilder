@@ -1,0 +1,107 @@
+ 
+ 
+require("econ.nut");
+ class econ_firs extends econ{ 
+ 
+    static STEEL = 4;
+    static HOT = 5;
+    static EXTREME = 6;
+    static ONEFOUR = 7;
+ 
+ 
+    constructor(econ) {	
+        switch(econ) {
+            case(econ_firs.STEEL):
+                this.init_steel();
+                break;
+            case(econ_firs.HOT):
+                this.init_hot();
+                break;
+            case(econ_firs.EXTREME):
+                this.init_extreme();
+                break;
+            case(econ_firs.ONEFOUR):
+                this.init_1_4();
+                break;
+        }
+        // 'Town produced' relative factor (get from setting) 
+        townprod_fct = 650;
+    }
+    
+    function init_steel() {
+        // Cargo enable order, Needs to be overridden
+        num_cargos = 7;
+        // Build mats, Passengers, Food, Mail, Goods, Alcohol, Petrol
+        enable_order = [3, 0, 11, 2, 5, 8, 1, 13];
+        enable_populations = [200, 500, 1000, 1500, 2500, 4000, 6000];
+        max_populations = [750, 1250, 2000, 3250, 5000, 7500, 11000];
+        decay_rates = [50, 1000, 250, 1000, 150, 60, 20];
+        // 'Town accepted' absolute cargo amounts. Needs to be overridden
+        accept_rel = [133, 90, 161, 15, 19, 77, 10];
+        // 'Town produced' absolute cargo amounts. To be overridden -- usually zero. 
+        prod_rel = [0,0,0,0,0,0,0];
+        // Add 'produced' to 'accepted' requirement
+        tpa = [0,1,0,1,0,0,0];  
+    }
+    
+    function init_hot() {
+        // Cargo enable order, Needs to be overridden
+        num_cargos = 7;
+        // Build mats, Passengers, Food, Mail, Goods, Alcohol, Petrol
+        enable_order = [3, 0, 11, 2, 5, 8, 1, 13];
+        enable_populations = [200, 500, 1000, 1500, 2500, 4000, 6000];
+        max_populations = [750, 1250, 2000, 3250, 5000, 7500, 11000];
+        decay_rates = [50, 1000, 250, 1000, 150, 60, 20];
+        // 'Town accepted' absolute cargo amounts. Needs to be overridden
+        accept_rel = [133, 90, 161, 15, 19, 77, 10];
+        // 'Town produced' absolute cargo amounts. To be overridden -- usually zero. 
+        prod_rel = [0,0,0,0,0,0,0];
+        // Add 'produced' to 'accepted' requirement
+        tpa = [0,1,0,1,0,0,0];  
+    }
+    
+    function init_extreme() {
+        // Cargo enable order, Needs to be overridden
+        num_cargos = 9;
+        // Build mats, Passengers, Food, Mail, Goods, Petrol, Coal, Alcohol, Fruit.
+        enable_order = [4, 0, 11, 2, 5, 22, 8, 1, 13];
+        enable_populations = [200, 500, 1000, 1500, 2500, 4000, 6000, 9000, 12500];
+        max_populations = [750, 1250, 2000, 3250, 5000, 7500, 11000, 15000, 20000];
+        decay_rates = [50, 1000, 250, 1000, 150, 20, 20, 60, 350];
+        // 'Town accepted' absolute cargo amounts. Needs to be overridden
+        accept_rel = [99, 90, 154, 15, 73, 22, 5, 35, 12];
+        // 'Town produced' absolute cargo amounts. To be overridden -- usually zero. 
+        prod_rel = [0,0,0,0,0,0,0,0,0];
+        // Add 'produced' to 'accepted' requirement
+        tpa = [0,1,0,1,0,0,0,0,0];  
+    }
+ 
+    function init_1_4() {
+    
+        // Cargo enable order, Needs to be overridden
+        num_cargos = 8;
+        // Build mats, Passengers, Food, Mail, Goods, Petrol, Coal, Alcohol, Fruit.
+        enable_order = [4, 0, 11, 2, 5, 22, 8, 1, 13];
+        enable_populations = [200, 500, 1000, 1500, 2500, 4000, 6000, 9000, 12500];
+        max_populations = [750, 1250, 2000, 3250, 5000, 7500, 11000, 15000, 20000];
+        decay_rates = [50, 1000, 250, 1000, 150, 20, 20, 125, 350];
+        
+        // 'Town accepted' absolute cargo amounts. Needs to be overridden
+        accept_rel = [99, 90, 154, 15, 73, 22, 5, 35, 12];
+        
+        // 'Town produced' absolute cargo amounts. To be overridden -- usually zero. 
+        prod_rel = [0,0,0,0,0,0,0,0];
+
+        // 'Town produced' relative factor (get from setting) 
+        townprod_fct = 650;
+        
+        // Add 'produced' to 'accepted' requirement
+        tpa = [0,1,0,1,0,0,0,0]; 
+    }
+ 
+ 
+    function getPaxCargo();
+    function getMailCargo();
+}
+function econ_firs::getPaxCargo() {return 1;}
+function econ_firs::getMailCargo() {return 3;}

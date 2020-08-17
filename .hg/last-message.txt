@@ -1,0 +1,9 @@
+Version 118
+
+
+Fix a crash when loading a saved game under all circumstances.
+Performance optimization: cache IDs of story window objects to halve the number of story window calls. 
+Performance optimization: don't check cargo of towns that don't have at least one passenger service. 
+Change FIRS economies to be theoretically accurate. 
+Add option to create towns on map start (allowing replication of small towns in novapolis server style).
+

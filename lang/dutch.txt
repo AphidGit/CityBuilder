@@ -1,0 +1,136 @@
+STR_CITYBUILDER_TOWN              	:Dit is een rapport uit {TOWN}. Het heeft {NUM} geregistreerde inwoners. {} 
+STR_CITYBUILDER_CARGOLINE         	:{NUM} van {NUM} {CARGO_LIST}.{} 
+STR_CITYBUILDER_WAREHOUSE         	:Voorraadgrootte: {NUM} van {NUM} eenheden.
+STR_CITYBUILDER_VILLAGE           	:Voorzie een maandelijkse service om groei te starten.{} 
+STR_CITYBUILDER_ENDLINE           	:Breng extra goederen om de plaats te doen groeien!
+STR_CITYBUILDER_NOT_GROWING       	:Onze plaats groeit niet.{} 
+STR_CITYBUILDER_GROWING           	:Onze plaats groeit!{} 
+STR_CITYBUILDER_GROWING_NAME      	:De plaats {TOWN} groeit.
+STR_CITYBUILDER_METROPOLIS_NOPAX  	:De metropool wil meer transportmogelijkheden voor diens inwoners voordat ze verder groeit!
+STR_CITYBUILDER_CARGO_TRANSPORTED   :{CARGO_SHORT} / {CARGO_LONG}
+STR_CITYBUILDER_CARGO_LMTRANSPORTED :{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}
+STR_CITYBUILDER_CARGO_LMMET         :{GREEN}{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}{BLACK}
+STR_CITYBUILDER_CARGO_LMMORE		:{RED}{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}{BLACK}
+STR_CITYBUILDER_GOALS				:Bezorgde goederen in de laatste maand / Totaal benodigd elke maand / Reserve
+STR_CITYBUILDER_START  				:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. Kies a.u.b. een klein dorp in deze regio uit door uw {ORANGE}HQ{BLACK} daar te bouwen. U heeft in en om dit dorp {ORANGE}exclusieve rechten{BLACK}. Tevens heeft u het recht {ORANGE} grond te kopen{BLACK} en {ORANGE} de bulldozer te gebruiken{BLACK}, in overeenstemming met het lokale bestuur. Uw opdracht? Geef mij een {ORANGE} plaats{BLACK}, hoe groter hoe beter. Uw voortgang wordt over {RED}{NUM} jaar{BLACK} beoordeeld!
+STR_CITYBUILDER_FREEBUILDER_START	:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. Respecteer andere bedrijven. Publieke bedrijven moeten ook geld verdienen. U dient steden te verzorgen door de goederen van hun keuze daaruit te vervoeren. In uw uiteindelijke beoordeling, deadline over {RED}{NUM} jaar{BLACK}, wordt U beoordeeld op deze criteria.
+STR_CITYBUILDER_COOP_START			:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. U wordt verwacht met andere bedrijven samen te werken om de potentiele groei in de regio te maximaliseren. Een evaluatie, deadline over {RED}{NUM} jaar{BLACK}, zal de gezamenlijke voortgang van U en de andere(n) beoordelen.  Door een HQ te bouwen in een dorp of plaats kunt U extra voordelen daar behalen. Bedrijven hebben in het lokale gebied bouwrechten en financieel voordeel. Misschien is het handig belangrijke gebieden te delegeren?  
+STR_CITYBUILDER_METROPOLIS_START	:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de ontwikkeling van de plaats {TOWN} te stimuleren. Dit kleine plaatsje moet uitgroeien tot een plaats van wereldformaat. Het enige ding wat ik van U en Uw rivalen vraag is om samen te werken en deze plaats in de wereld te brengen. Door een HQ in een plaats of dorp te bouwen verkrijgt U enkele speciale voordelen. Als een of meer van deze gebouwen bestaan hebben deze bedrijven bouwrechten in het lokale gebied, evenals financiele voordelen. Misschien is het handig belangrijke gebieden te delegeren? Een evaluatie van alle bedrijven vindt plaats over {RED}{NUM} jaar{BLACK}. Stel me niet teleur. Omdat samenwerking verwacht is krijgen alle meewerkende bedrijven dezelfde beoordeling.  
+STR_CITYBUILDER_I_START  			:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. Kies a.u.b. een klein dorp in deze regio uit door uw {ORANGE}HQ{BLACK} daar te bouwen. U heeft in en om dit dorp {ORANGE}exclusieve rechten{BLACK}. Tevens heeft u het recht {ORANGE} grond te kopen{BLACK} en {ORANGE} de bulldozer te gebruiken{BLACK}, in overeenstemming met het lokale bestuur. Uw opdracht? Geef mij een {ORANGE} plaats{BLACK}, hoe groter hoe beter. 
+STR_CITYBUILDER_I_FREEBUILDER_START	:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. Respecteer andere bedrijven. Publieke bedrijven moeten ook geld verdienen. U dient steden te verzorgen door de goederen van hun keuze daaruit te vervoeren. 
+STR_CITYBUILDER_I_COOP_START		:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de lokale ontwikkeling te stimuleren. Een substantiele geldsom is in uw bedrijf voor dit doel geinvesteerd. U wordt verwacht met andere bedrijven samen te werken om de potentiele groei in de regio te maximaliseren. Door een HQ te bouwen in een dorp of plaats kunt U extra voordelen daar behalen. Bedrijven hebben in het lokale gebied bouwrechten en financieel voordeel. Misschien is het handig belangrijke gebieden te delegeren?  
+STR_CITYBUILDER_I_METROPOLIS_START	:Beste bedrijfsbestuurder. U bent aangenomen in de publieke sector om de ontwikkeling van de plaats {TOWN} te stimuleren. Dit kleine plaatsje moet uitgroeien tot een plaats van wereldformaat. Het enige ding wat ik van U en Uw rivalen vraag is om samen te werken en deze plaats in de wereld te brengen. Door een HQ in een plaats of dorp te bouwen verkrijgt U enkele speciale voordelen. Als een of meer van deze gebouwen bestaan hebben deze bedrijven bouwrechten in het lokale gebied, evenals financiele voordelen. Misschien is het handig belangrijke gebieden te delegeren?  
+STR_CITYBUILDER_SCORELIST           :{GOLD}{COMPANY}{BLACK}: {WHITE}{NUM}{BLACK} punten.
+STR_CITYBUILDER_WON                 :Beste bedrijfsbestuurder. Ik heb toestemming gekregen U het volgende rapport te overhandigen: Geweldig! Uw bedrijf is {ORANGE}het meest succesvolle bedrijf{BLACK}, met een score van... {}{NUM}!
+STR_CITYBUILDER_CLOSE               :Beste bedrijfsbestuurder. Ik heb toestemming gekregen U het volgende rapport te overhandigen: Goed gedaan! Uw bedrijf is geevalueerd als erg succesvol onder de lokale bedrijven, dichtbij de best presterende, met een score van: {}{NUM}!
+STR_CITYBUILDER_GOOD				:Beste bedrijfsbestuurder. Ik heb toestemming gekregen U het volgende rapport te overhandigen: Uw bedrijf heeft zijn doelstellingen redelijk goed behaald. Alhoewel er een aantal betere bedrijven zijn heeft Uw bedrijf ook bewonderenswaardig gepresteerd, met een score van: {} {NUM}. 
+STR_CITYBUILDER_OKAY				:Beste bedrijfsbestuurder. Ik heb toestemming gekregen U het volgende rapport te overhandigen: Uw bedrijf heeft redelijk gepresteerd, maar andere bedrijven presteerden veel beter. U heeft uw taak afgerond met een score van {} {NUM}.
+STR_CITYBUILDER_LOST				:Beste bedrijfsbestuurder. Ik heb toestemming gekregen U het volgende rapport te overhandigen: Uw bedrijf is beoordeeld, en uw prestaties zijn als 'slecht' bevonden. U heeft uw taak afgerond met een score van {NUM}, maar de meeste andere bedrijven deden het veel beter.
+STR_CITYBUILDER_DESTROYED  			:Beste bedrijfsbestuurder. We moeten ergens een fout hebben gemaakt toen we U aannamen, want U heeft ofwel zo miserabel gefaald dat Uw evaluatiescore van de tabel af is gedonderd, of andere bedrijven zijn simpelweg zoveel beter dan U dat U niet registreert. Omwege uw vreselijk slechte prestatie bent U hierbij {RED} OP STAANDE VOET ONTSLAGEN!{BLACK}
+STR_CITYBUILDER_COOP_FINISH			:Goed gedaan! U en Uw collega's hebben ons verrast met een score van:{}{NUM}
+STR_CITYBUILDER_EXTRA_FUNDING		:Beste bedrijfsbestuurder. Wij zijn tevreden met Uw vooruitgang, en vragen U onze officiele gift van {NUM} engelse pond aan belastinggelden aan te nemen, die dan onmiddelijk aan de activa van Uw bedrijf toe worden gevoegd.
+STR_CITYBUILDER_TOO_FEW_TOWNS       :Slechts {NUM} geschikte steden zijn gevonden.{} Dit beperkt het aantal bedrijven dat op deze kaart een plaats kan claimen!
+STR_CITYBUILDER_TOWN_CLAIM          :De plaats {TOWN} is geclaimed door: {COMPANY}
+STR_CITYBUILDER_TOOLARGE            :U heeft geen toestemming deze plaats te claimen. Ze is te groot. Claim een plaats met maximaal {NUM} inwoners!
+STR_CITYBUILDER_TOWN_CLAIM_POPUP 	:U heeft de plaats {TOWN} geclaimed!
+STR_CITYBUILDER_TOOFAR              :Plaats uw HQ a.u.b. binnen {NUM} tegels van het plaatsscentrum om een plaats te claimen.
+STR_CITYBUILDER_ALREADY_CLAIMED     :Deze plaats is al geclaimed door {COMPANY}.
+STR_CITYBUILDER_CLAIM_CITY			:Deze plaats heeft stadsrechten en kan niet worden geclaimed.
+STR_CITYBUILDER_TAKEOVER			:De plaats {TOWN} is nu een deelgemeente van {TOWN}!
+STR_CITYBUILDER_TOWNOWNER			:Eigenaar: {COMPANY}
+STR_CITYBUILDER_TOWNOWNER_SIGN		:Eigendom van: {COMPANY}
+
+STR_CITYBUILDER_CITY				:..::STAD::..
+STR_CITYBUILDER_CITY_GROW			:Deze stad groeit! {GREEN}{NUM}%{BLACK} van {NUM}% {CARGO_LIST} vervoerd.
+STR_CITYBUILDER_CITY_NOGROW			:Deze stad groeit niet. {RED}{NUM}%{BLACK} van {NUM}% {CARGO_LIST} vervoerd.
+STR_CITYBUILDER_TACITY_GROW         :Deze stad groeit! {GREEN}{NUM}% {BLACK}van {NUM}% {CARGO_LIST} vervoerd.
+STR_CITYBUILDER_TACITY_NOGROW       :Deze stad groeit niet. {RED}{NUM}% {BLACK}van {NUM}% {CARGO_LIST} vervoerd.
+STR_CITYBUILDER_SIGN_HAMLET         :Groeiend!
+STR_CITYBUILDER_SIGN_VILLAGE        :1/1 passagiersdienst
+STR_CITYBUILDER_SIGN_VILLAGE_NG     :0/1 passagiersdienst
+
+STR_CITYBUILDER_SEEGOALWINDOW       :Bekijk het doelenscherm of de verhaallijn voor meer informatie.
+STR_CITYBUILDER_GW_DEMANDS_TO       :Bezorg
+STR_CITYBUILDER_GW_DEMANDS_FROM     :Distribueer
+STR_CITYBUILDER_GW_GOALS            :{BLACK}Benodigdheden van uw plaats ({PURPLE}violet{BLACK} = volledige groei op {GOLD}{NUM}%{BLACK} van benodigdheid): 
+STR_CITYBUILDER_GW_POP              :{BLACK}Bevolking: {WHITE}{NUM}{BLACK} mensen. Huizen: {WHITE}{NUM}{BLACK} gebouw{P "" en}.
+STR_CITYBUILDER_GW_NEXT             :{BLACK}Volgende benodigdheid: {LTBLUE}{CARGO_LIST}{BLACK} bij een bevolking van {RED}{NUM}{BLACK} mens{P "" en}!
+STR_CITYBUILDER_GW_HAMLET           :{WHITE}Uw gehucht is zo klein dat het vanzelf groeit!
+STR_CITYBUILDER_GW_VILLAGE          :{WHITE}U dient een maandelijkse passagiersvervoersdienst te introduceren om dit dorp te laten groeien.
+STR_CITYBUILDER_GW_NOT_GROWING      :{RED}Uw plaats krimpt.
+STR_CITYBUILDER_GW_STAGNANT         :{ORANGE}Uw plaats stagneert.
+STR_CITYBUILDER_GW_B_GROWING        :{YELLOW}Uw plaats groeit langzamer dan mogelijk.
+STR_CITYBUILDER_GW_A_GROWING        :{GREEN}Uw plaats groeit met maximale snelheid!
+STR_CITYBUILDER_GW_A                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {GREEN}{NUM} {BLACK}/{SILVER} {NUM}   {BLACK}|   Opslag: {LTBLUE}{NUM}  {BLACK}eenhe{P id en}  [ {NUM} % ]
+STR_CITYBUILDER_GW_B                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {YELLOW}{NUM} {BLACK}/{SILVER} {NUM}   {BLACK}|   Opslag: {GOLD}{NUM}  {BLACK}eenhe{P id en}  [ {NUM} % ]
+STR_CITYBUILDER_GW_C                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {RED}{NUM} {BLACK}/{SILVER} {NUM}   {BLACK}|   Opslag: {RED}{NUM}  {BLACK}eenhe{P id en}  [ {NUM} % ] 
+STR_CITYBUILDER_GW_D                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {GREEN}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_GW_E                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {RED}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_F                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {PURPLE}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_G                :{LTBLUE}{CARGO_LIST}: {BLACK}Bezorgd / Benodigd: {PURPLE}{NUM} {BLACK}/{SILVER} {NUM}   {BLACK}|   Opslag: {LTBLUE}{NUM}  {BLACK}eenhe{P id en}  [ {NUM} % ]
+
+
+STR_CITYBUILDER_GW_H                :{LTBLUE}{CARGO_LIST}: {BLACK}Genomen / Benodigd: {GREEN}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_GW_I                :{LTBLUE}{CARGO_LIST}: {BLACK}Genomen / Benodigd: {RED}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_J                :{LTBLUE}{CARGO_LIST}: {BLACK}Genomen / Benodigd: {PURPLE}{NUM} {BLACK}/{SILVER} {NUM}
+
+STR_CITYBUILDER_GW_MAILTR_A			:{GREEN}{NUM}%{BLACK} van alle post vervoerd.
+STR_CITYBUILDER_GW_MAILTR_B			:{RED}{NUM}%{BLACK} van alle post vervoerd. Vervoer meer post.
+STR_CITYBUILDER_GW_PAXTR_A			:{GREEN}{NUM}%{BLACK} van alle passagiers vervoerd.
+STR_CITYBUILDER_GW_PAXTR_B			:{RED}{NUM}%{BLACK} van alle passagiers vervoerd. Vervoer meer passagiers.
+STR_CITYBUILDER_SUBSIDY_1			:Verzoeken:
+STR_CITYBUILDER_SUBSIDY_2			:Het verzoek van {TOWN} is verlopen.
+STR_CITYBUILDER_SUBSIDY_3			:{TOWN} geeft punten voor {CARGO_LONG} of meer voor de komende {NUM} maanden
+STR_CITYBUILDER_SUBSIDY_6			:{TOWN} zal punten geven voor {CARGO_LONG} of meer in {NUM} maanden
+STR_CITYBUILDER_SUBSIDY_SCORE		:U heeft {NUM} extra punten ontvangen voor het vervoeren van goederen voor verzoeken.
+
+STR_CITYBUILDER_NEWS_NOT_GROWING    :Uw plaats groeit niet.
+STR_CITYBUILDER_NEWS_STAGNANT       :Uw plaats stagneert.
+STR_CITYBUILDER_NEWS_B_GROWING      :Uw plaats groeit langzamer dan mogelijk.
+STR_CITYBUILDER_NEWS_A_GROWING      :Uw plaats groeit met maximale snelheid!
+STR_CITYBUILDER_NEWS_A              :{}{CARGO_LIST}: {NUM} / {NUM} | Opslag: {NUM} 
+STR_CITYBUILDER_NEWS_D              :{}{CARGO_LIST}: {NUM} / {NUM}
+STR_CITYBUILDER_NEWS_NEXT           :{}Volgende: {CARGO_LIST} bij een bevolking van {NUM} mens{P "" en}!
+STR_CITYBUILDER_NEWS_HAMLET         :Uw gehucht is zo klein dat het vanzelf groeit!
+STR_CITYBUILDER_NEWS_VILLAGE        :{}U dient een maandelijkse passagiersvervoersdienst te introduceren om dit dorp te laten groeien.
+STR_CITYBUILDER_NEWS_MAILTR_A		:{NUM}% van alle post vervoerd
+STR_CITYBUILDER_NEWS_MAILTR_B		:Slechts {NUM}% van de post is vervoerd - vervoer meer post
+STR_CITYBUILDER_NEWS_PAXTR_A		:{NUM}% van alle passagiers vervoerd
+STR_CITYBUILDER_NEWS_PAXTR_B		:Slechts {NUM}% van de passagiers {P is zijn} vervoerd - vervoer meer passagiers
+
+STR_CITYBUILDER_TW_NOT_GROWING      :{RED}Deze plaats groeit niet
+STR_CITYBUILDER_TW_STAGNANT         :{ORANGE}Deze plaats stagneert
+STR_CITYBUILDER_TW_B_GROWING        :{YELLOW}Deze plaats groeit, maar niet op volle snelheid.
+STR_CITYBUILDER_TW_A_GROWING        :{GREEN}Deze plaats groeit met de maximale snelheid!
+STR_CITYBUILDER_TW_A                :{}{LTBLUE}{CARGO_LIST}: {GREEN}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Opslag: {LTBLUE}{NUM}
+STR_CITYBUILDER_TW_B                :{}{LTBLUE}{CARGO_LIST}: {YELLOW}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Opslag: {GOLD}{NUM}
+STR_CITYBUILDER_TW_C                :{}{LTBLUE}{CARGO_LIST}: {RED}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Opslag: {RED}{NUM}
+STR_CITYBUILDER_TW_D                :{}{LTBLUE}{CARGO_LIST}: {GREEN}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_TW_E                :{}{LTBLUE}{CARGO_LIST}: {RED}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_TW_F                :{}{LTBLUE}{CARGO_LIST}: {BLUE}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_TW_G                :{}{LTBLUE}{CARGO_LIST}: {BLUE}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Opslag: {LTBLUE}{NUM}
+STR_CITYBUILDER_TW_NEXT             :{}{BLACK}Volgende: {LTBLUE}{CARGO_LIST}{BLACK} bij een bevolking van {RED}{NUM}{BLACK} mens{P "" en}!
+STR_CITYBUILDER_TW_HAMLET           :{WHITE}Dit gehucht is zo klein dat het vanzelf groeit!
+STR_CITYBUILDER_TW_VILLAGE          :{}{WHITE}Dit dorp heeft een maandelijkse passagiersvervoersdienst nodig om te groeien.
+STR_CITYBUILDER_SB_GOTO             :{GREEN}Ga naar de plaats
+STR_CITYBUILDER_SB_POPULATION       :Aantal inwoners: {YELLOW}{NUM}
+
+STR_CITYBUILDER_SS_TOWN1			:-= Informatie =-
+STR_CITYBUILDER_SS_TOWN2_NAME		:Plaatsnaam: {TOWN}
+STR_CITYBUILDER_SS_TOWN3_INH		:Aantal inwoners: {NUM}
+STR_CITYBUILDER_SS_TOWN4_HC			:Aantal huizen: {NUM}
+STR_CITYBUILDER_SS_TOWN5_EMPTY		: 
+STR_CITYBUILDER_SS_TOWN6_CI			:-= Goedereninfo. =-
+STR_CITYBUILDER_SS_TOWNX_CARGOLINE	:{CARGO_SHORT} / {CARGO_LONG} (Bezorgd), Opslag: {CARGO_LONG}
+STR_CITYBUILDER_SS_TOWNX_REQLINE	:{CARGO_SHORT} / {CARGO_LONG} (Meer nodig), Opslag: {CARGO_LONG}
+STR_CITYBUILDER_SS_TOWNY_CARGOLINE  :{CARGO_SHORT} / {CARGO_LONG} (Bezorgd)
+STR_CITYBUILDER_SS_TOWNY_REQLINE    :{CARGO_SHORT} / {CARGO_LONG} (Meer nodig)
+STR_CITYBUILDER_SS_NOTOWN			:Uw bedrijf heeft nog geen plaats geclaimed. Statistiek niet beschikbaar!
+
+STR_CITYBUILDER_CARGO_INTRO			:Steden en plaatsen hebben vanaf nu {CARGO_LIST} nodig om boven de {NUM} inwoner{P "" s} te groeien!
+STR_CITYBUILDER_CARGO_TBINTRO		:Steden hebben {CARGO_LIST} nodig om boven de {NUM} inwoner{P "" s} te groeien over {NUM} ja{P ar ren}.
+
+STR_CITYBUILDER_INFO_REQ00          :Aantal eenheden nodig per 1,000 mensen voor vracht #{NUM} ({CARGO_LIST}).
+
+STR_CITYBUILDER_CONF_DBGLEVEL       :Debug level
+

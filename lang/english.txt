@@ -1,0 +1,169 @@
+STR_CITYBUILDER_TOWN                :This is a report from {TOWN}. It houses {NUM} registered citizens. {} 
+STR_CITYBUILDER_CARGOLINE           :{NUM} of {NUM} {CARGO_LIST}.{} 
+STR_CITYBUILDER_WAREHOUSE           :Warehouses hold another {NUM} of {NUM} units.
+STR_CITYBUILDER_VILLAGE             :Supply a monthly passenger transport service to start growth.{} 
+STR_CITYBUILDER_ENDLINE             :Deliver additional cargo to grow the town!
+STR_CITYBUILDER_NOT_GROWING         :Our town is not growing.{} 
+STR_CITYBUILDER_GROWING             :Our town is growing!{} 
+STR_CITYBUILDER_GROWING_NAME        :The town or city of {TOWN} is growing.
+STR_CITYBUILDER_METROPOLIS_NOPAX    :The metropolis demands additional transport services for its people before it will grow any further!
+STR_CITYBUILDER_CARGO_TRANSPORTED   :{CARGO_SHORT} / {CARGO_LONG}
+STR_CITYBUILDER_CARGO_LMTRANSPORTED :{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}
+STR_CITYBUILDER_CARGO_LMMET         :{GREEN}{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}{BLACK}
+STR_CITYBUILDER_CARGO_LMMORE        :{RED}{CARGO_SHORT} / {CARGO_SHORT} / {CARGO_LONG}{BLACK}
+STR_CITYBUILDER_GOALS               :Cargo Delivered / Required / Reserve
+STR_CITYBUILDER_START               :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. Please pick a small town in this region by building your {ORANGE}HQ{BLACK}. You have been granted {ORANGE}exclusive transport rights{BLACK} in and around this town. Furthermore, you also have the right to {ORANGE}buy and bulldoze{BLACK} terrain within the local area, in accordance with the local authorities. Your goal? Give me a {ORANGE}city{BLACK}, the larger the better. Your progress will be evaluated in {RED}{NUM} year{P "" s}{BLACK}!
+STR_CITYBUILDER_FREEBUILDER_START   :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. Respect other companies. Public transport companies need to make money. You also need to transport from towns the cargoes they demand. In the eventual progress evaluation, due in {RED}{NUM} year{P "" s}{BLACK}, you will be judged based on these criteria. 
+STR_CITYBUILDER_COOP_START          :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. You are expected to work with other companies to maximize the local growth potential. A progress evaluation, due in {RED}{NUM} year{P "" s}{BLACK}, will evaluate the performance of you and the others. By building a HQ building inside a town, you will gain some special benefits. If one or more such buildings exists, those companies have building rights in the local area. They also enjoy financial benefits, but may not build outside the area. Perhaps delegating important areas might improve your success?
+STR_CITYBUILDER_METROPOLIS_START    :Dear company executive. You have been hired as a public servant to increase development in the town of {TOWN}. This small settlement is to grow into a world-class city. The one and only thing I ask of you and your rival companies is to work together. Bring this settlement into the world. By building a HQ building inside a town, you will gain some special benefits. If one or more such buildings exists, those companies have building rights in the local area. They also enjoy financial benefits. Perhaps delegating important areas might improve your success? An evaluation of all companies is due in {RED}{NUM} year{P "" s}{BLACK}. Do NOT disappoint me. Because cooperation is expected, all companies that contributed significantly to our goals will receive the exact same rating. 
+STR_CITYBUILDER_I_START             :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. Please pick a small town in this region by building your {ORANGE}HQ{BLACK}. You have been granted {ORANGE}exclusive transport rights{BLACK} in and around this town. Furthermore, you also have the right to {ORANGE}buy and bulldoze{BLACK} terrain within the local area, in accordance with the local authorities. Your goal? Give me a {ORANGE}city{BLACK}, the larger the better.
+STR_CITYBUILDER_I_FREEBUILDER_START :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. Respect other companies. Public transport companies need to make money. You also need to transport from towns the cargoes they demand.  
+STR_CITYBUILDER_I_COOP_START        :Dear company executive. You have been hired as a public servant to increase town development in the local area. A substantial amount of funds have been invested in your transport company for this purpose. You are expected to work with other companies to maximize the local growth potential. By building a HQ building inside a town, you will gain some special benefits. If one or more such buildings exists, those companies have building rights in the local area. They also enjoy financial benefits, but may not build outside the area. Perhaps delegating important areas might improve your success?
+STR_CITYBUILDER_I_METROPOLIS_START  :Dear company executive. You have been hired as a public servant to increase development in the town of {TOWN}. This small settlement is to grow into a world-class city. The one and only thing I ask of you and your rival companies is to work together. Bring this settlement into the world. By building a HQ building inside a town, you will gain some special benefits. If one or more such buildings exists, those companies have building rights in the local area. They also enjoy financial benefits. Perhaps delegating important areas might improve your success? Because cooperation is expected, all companies that contributed significantly to our goals will receive the exact same rating. 
+STR_CITYBUILDER_SCORELIST           :{GOLD}{COMPANY}{BLACK}- {WHITE}{NUM}{BLACK} points.
+STR_CITYBUILDER_WON                 :Dear company executive. I have been given the authority to forward you the following evaluation report: Congratulations! Your company has been evaluated as {ORANGE}the most succesful company{BLACK}, with a score of... {}{NUM}!
+STR_CITYBUILDER_CLOSE               :Dear company executive. I have been given the authority to forward you the following evaluation report: Well done! Your company has been evaluated as very succesful amongst the local companies, close to the best performer, with a score of: {}{NUM}!
+STR_CITYBUILDER_GOOD                :Dear company executive. I have been given the authority to forward you the following evaluation report: Your company did a fairly good job at meeting its goals and targets. While there are a few better companies around, certainly, yours performed admirably as well, with a score of: {} {NUM}.
+STR_CITYBUILDER_OKAY                :Dear company executive. I have been given the authority to forward you the following evaluation report: Your company has been evaluated as a reasonable performer, but some other companies fared much better. You finished your task with a score of {} {NUM}. 
+STR_CITYBUILDER_LOST                :Dear company executive. I have been given the authority to forward you the following evaluation report: Your company has been evaluated, and your performance was found lacking. You finished your task with a score of {NUM}, but most other companies fared much better.
+STR_CITYBUILDER_DESTROYED           :Dear company executive. We must have made a mistake somewhere hiring you, as you either failed so miserably your evaluation score fell of the chart, or other companies are, to put it simply, much better at this than you were. Because of your terrible performance, please leave your official clothes at the reception desk. {RED} YOU'RE FIRED! {BLACK} 
+STR_CITYBUILDER_COOP_FINISH         :Good job! You and your fellow colleagues have impressed us with a score of:{}{NUM}
+STR_CITYBUILDER_EXTRA_FUNDING       :Dear company executive. We are pleased with your progress, and ask of you to Accept our official grant of {NUM} pounds worth of taxpayers' money, to be added to company assets effective immediately.
+STR_CITYBUILDER_TOO_FEW_TOWNS       :Only {NUM} suitable towns found.{}This limits the number of companies that can claim a town on this map!
+STR_CITYBUILDER_TOWN_CLAIM          :The town of {TOWN} has been claimed by {COMPANY}
+STR_CITYBUILDER_TOOLARGE            :You are not allowed to claim this town. It is too large. Please claim a town of at most {NUM} inhabitants.
+STR_CITYBUILDER_TOWN_CLAIM_POPUP    :You have claimed {TOWN}!
+STR_CITYBUILDER_TOOFAR              :Please locate your HQ within {NUM} tiles of the town center to claim a town.
+STR_CITYBUILDER_ALREADY_CLAIMED     :This town has already been claimed by {COMPANY}.
+STR_CITYBUILDER_CLAIM_CITY          :You are not allowed to claim a city. 
+STR_CITYBUILDER_TAKEOVER            :The town of {TOWN} is now a muncipality of {TOWN}!
+STR_CITYBUILDER_TOWNOWNER           :Owner: {COMPANY}
+STR_CITYBUILDER_TOWNOWNER_SIGN      :Property of: {COMPANY}
+
+STR_CITYBUILDER_CITY                :..::CITY::..
+STR_CITYBUILDER_CITY_GROW           :This city is growing! {GREEN}{NUM}% {BLACK}of {NUM}% {CARGO_LIST} transported.
+STR_CITYBUILDER_CITY_NOGROW         :This city is not growing. {RED}{NUM}% {BLACK}of {NUM}% {CARGO_LIST} transported.
+STR_CITYBUILDER_TACITY_GROW         :This town is growing! {GREEN}{NUM}% {BLACK}of {NUM}% {CARGO_LIST} transported.
+STR_CITYBUILDER_TACITY_NOGROW       :This town is not growing. {RED}{NUM}% {BLACK}of {NUM}% {CARGO_LIST} transported.
+STR_CITYBUILDER_SIGN_HAMLET         :Growing!
+STR_CITYBUILDER_SIGN_VILLAGE        :1/1 passenger service
+STR_CITYBUILDER_SIGN_VILLAGE_NG     :0/1 passenger service
+
+STR_CITYBUILDER_SEEGOALWINDOW       :Please view the goal window or the story book for town information.
+STR_CITYBUILDER_GW_DEMANDS_TO       :Wants
+STR_CITYBUILDER_GW_DEMANDS_FROM     :Distributes
+STR_CITYBUILDER_GW_GOALS            :{BLACK}Town requirements ({PURPLE}violet{BLACK} = full growth at {GOLD}{NUM}%{BLACK} of requirement): 
+STR_CITYBUILDER_GW_POP              :{BLACK}Population: {WHITE}{NUM}{BLACK} people. Houses: {WHITE}{NUM}{BLACK} building{P "" s}.
+STR_CITYBUILDER_GW_NEXT             :{BLACK}Next: {LTBLUE}{CARGO_LIST}{BLACK} at {RED}{NUM}{BLACK} population!
+STR_CITYBUILDER_GW_HAMLET           :{WHITE}The town is so small it will grow by itself!
+STR_CITYBUILDER_GW_VILLAGE          :{WHITE}Supply a monthly passenger transport service to grow the village.
+STR_CITYBUILDER_GW_NOT_GROWING      :{RED}The town is not growing.
+STR_CITYBUILDER_GW_STAGNANT         :{ORANGE}The town is stagnant.
+STR_CITYBUILDER_GW_B_GROWING        :{YELLOW}The town is growing, but it could grow faster.
+STR_CITYBUILDER_GW_A_GROWING        :{GREEN}The town is growing at maximum speed!
+STR_CITYBUILDER_GW_A                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {GREEN}{NUM} {BLACK}/{SILVER}{NUM}{BLACK}, Storage: {LTBLUE}{NUM}  {BLACK}unit{P "" s}  [ {NUM} % ]
+STR_CITYBUILDER_GW_B                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {YELLOW}{NUM} {BLACK}/{SILVER}{NUM}{BLACK}, Storage: {GOLD}{NUM}  {BLACK}unit{P "" s}  [ {NUM} % ]
+STR_CITYBUILDER_GW_C                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {RED}{NUM} {BLACK}/{SILVER}{NUM}{BLACK}, Storage: {RED}{NUM}  {BLACK}unit{P "" s}  [ {NUM} % ] 
+STR_CITYBUILDER_GW_D                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {GREEN}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_GW_E                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {RED}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_F                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {PURPLE}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_G                :{LTBLUE}{CARGO_LIST}: {BLACK}Delivered / Required: {PURPLE}{NUM} {BLACK}/{SILVER}{NUM}{BLACK}, Storage: {LTBLUE}{NUM}  {BLACK}unit{P "" s}  [ {NUM} % ]
+
+STR_CITYBUILDER_GW_H                :{LTBLUE}{CARGO_LIST}: {BLACK}Taken / Required: {GREEN}{NUM} {BLACK}/{SILVER} {NUM} 
+STR_CITYBUILDER_GW_I                :{LTBLUE}{CARGO_LIST}: {BLACK}Taken / Required: {RED}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_GW_J                :{LTBLUE}{CARGO_LIST}: {BLACK}Taken / Required: {PURPLE}{NUM} {BLACK}/{SILVER} {NUM}
+
+STR_CITYBUILDER_GW_MAILTR_A         :{GREEN}{NUM}%{BLACK} of mail transported.
+STR_CITYBUILDER_GW_MAILTR_B         :{RED}{NUM}%{BLACK} of mail transported. Transport more mail.
+STR_CITYBUILDER_GW_PAXTR_A          :{GREEN}{NUM}%{BLACK} of passengers transported.
+STR_CITYBUILDER_GW_PAXTR_B          :{RED}{NUM}%{BLACK} of passengers transported. Transport additional passengers.
+STR_CITYBUILDER_SUBSIDY_1           :Town Requests:
+STR_CITYBUILDER_SUBSIDY_2           :Request from {TOWN} has ended.
+STR_CITYBUILDER_SUBSIDY_3           :{LTBLUE}{TOWN}{ORANGE} awards you score for {WHITE}{CARGO_LONG}{ORANGE} or more for another {NUM} months
+STR_CITYBUILDER_SUBSIDY_6           :{LTBLUE}{TOWN}{ORANGE} will award you score for {WHITE}{CARGO_LONG}{ORANGE} or more in {NUM} months
+STR_CITYBUILDER_SUBSIDY_SCORE       :Towns have awarded you {NUM} points for  transporting cargo.
+
+STR_CONCAT                          :{STRING}{STRING}
+STR_CITYBUILDER_CONCAT2             :{STRING}{STRING}
+STR_CITYBUILDER_CONCAT3             :{STRING}{STRING}{STRING}
+STR_CITYBUILDER_CONCAT4             :{STRING}{STRING}{STRING}{STRING}
+STR_CITYBUILDER_CONCAT5             :{STRING}{STRING}{STRING}{STRING}{STRING}
+STR_CITYBUILDER_CONCAT6             :{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}
+STR_CITYBUILDER_CONCAT7             :{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}
+STR_CITYBUILDER_CONCAT8             :{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}{STRING}
+
+STR_CITYBUILDER_CONCAT01            :{STRING}{STRING1}
+STR_CITYBUILDER_CONCAT02            :{STRING}{STRING2}
+STR_CITYBUILDER_CONCAT021           :{STRING}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT00            :{STRING}{STRING}
+STR_CITYBUILDER_CONCAT001           :{STRING}{STRING}{STRING1}
+STR_CITYBUILDER_CONCAT002           :{STRING}{STRING}{STRING2}
+STR_CITYBUILDER_CONCAT0021          :{STRING}{STRING}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT04            :{STRING}{STRING4}
+STR_CITYBUILDER_CONCAT041           :{STRING}{STRING4}{STRING1}
+STR_CITYBUILDER_CONCAT042           :{STRING}{STRING4}{STRING2}
+STR_CITYBUILDER_CONCAT0421          :{STRING}{STRING4}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT044           :{STRING}{STRING4}{STRING4}
+STR_CITYBUILDER_CONCAT0441          :{STRING}{STRING4}{STRING4}{STRING1}
+STR_CITYBUILDER_CONCAT0442          :{STRING}{STRING4}{STRING4}{STRING2}
+STR_CITYBUILDER_CONCAT04421         :{STRING}{STRING4}{STRING4}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT0444          :{STRING}{STRING4}{STRING4}{STRING4}
+STR_CITYBUILDER_CONCAT04441         :{STRING}{STRING4}{STRING4}{STRING4}{STRING1}
+STR_CITYBUILDER_CONCAT04442         :{STRING}{STRING4}{STRING4}{STRING4}{STRING2}
+STR_CITYBUILDER_CONCAT044421        :{STRING}{STRING4}{STRING4}{STRING4}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT02222         :{STRING}{STRING2}{STRING2}{STRING2}{STRING2}
+STR_CITYBUILDER_CONCAT022221        :{STRING}{STRING2}{STRING2}{STRING2}{STRING2}{STRING1}
+STR_CITYBUILDER_CONCAT022222        :{STRING}{STRING2}{STRING2}{STRING2}{STRING2}{STRING2}
+STR_CITYBUILDER_CONCAT0222221       :{STRING}{STRING2}{STRING2}{STRING2}{STRING2}{STRING2}{STRING1}
+
+STR_CITYBUILDER_NEWS_NOT_GROWING    :The town is not growing.
+STR_CITYBUILDER_NEWS_STAGNANT       :The town is stagnant.
+STR_CITYBUILDER_NEWS_B_GROWING      :The town is growing slowly.
+STR_CITYBUILDER_NEWS_A_GROWING      :The town is growing!
+STR_CITYBUILDER_NEWS_A              :{}{CARGO_LIST}: {NUM} / {NUM} | Storage: {NUM} 
+STR_CITYBUILDER_NEWS_D              :{}{CARGO_LIST}: {NUM} / {NUM}
+STR_CITYBUILDER_NEWS_NEXT           :{}Next: {CARGO_LIST} at {NUM} population!
+STR_CITYBUILDER_NEWS_HAMLET         :The town is so small it will grow by itself!
+STR_CITYBUILDER_NEWS_VILLAGE        :{}Supply a monthly passenger transport service to grow your village.
+STR_CITYBUILDER_NEWS_MAILTR_A		:{NUM}% mail transported
+STR_CITYBUILDER_NEWS_MAILTR_B		:Only {NUM}% mail - Take more mail
+STR_CITYBUILDER_NEWS_PAXTR_A		:{NUM}% pass transported
+STR_CITYBUILDER_NEWS_PAXTR_B		:Only {NUM}% pax - Take more pass
+
+STR_CITYBUILDER_TW_NOT_GROWING      :{RED}This town is not growing
+STR_CITYBUILDER_TW_STAGNANT         :{ORANGE}This town is stagnant
+STR_CITYBUILDER_TW_B_GROWING        :{YELLOW}This town is growing slowly
+STR_CITYBUILDER_TW_A_GROWING        :{GREEN}This town is growing!
+STR_CITYBUILDER_TW_A                :{}{LTBLUE}{CARGO_LIST}: {GREEN}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Storage: {LTBLUE}{NUM}
+STR_CITYBUILDER_TW_B                :{}{LTBLUE}{CARGO_LIST}: {YELLOW}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Storage: {GOLD}{NUM}
+STR_CITYBUILDER_TW_C                :{}{LTBLUE}{CARGO_LIST}: {RED}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Storage: {RED}{NUM}
+STR_CITYBUILDER_TW_D                :{}{LTBLUE}{CARGO_LIST}: {GREEN}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_TW_E                :{}{LTBLUE}{CARGO_LIST}: {RED}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_TW_F                :{}{LTBLUE}{CARGO_LIST}: {BLUE}{NUM} {BLACK}/{SILVER} {NUM}
+STR_CITYBUILDER_TW_G                :{}{LTBLUE}{CARGO_LIST}: {BLUE}{NUM} {BLACK}/{SILVER} {NUM}{BLACK} | Storage: {LTBLUE}{NUM}
+STR_CITYBUILDER_TW_NEXT             :{}{BLACK}Next: {LTBLUE}{CARGO_LIST}{BLACK} at {RED}{NUM}{BLACK} population!
+STR_CITYBUILDER_TW_HAMLET           :{WHITE}This hamlet is so small it will grow by itself!
+STR_CITYBUILDER_TW_VILLAGE          :{}{WHITE}This village needs a monthly passenger transport service to grow.
+
+STR_CITYBUILDER_SB_GOTO             :{GREEN}Go to the town
+STR_CITYBUILDER_SB_POPULATION       :Town population: {YELLOW}{NUM}
+
+STR_CITYBUILDER_SS_TOWN1            :-= Town Info =-
+STR_CITYBUILDER_SS_TOWN2_NAME       :Town Name: {TOWN}
+STR_CITYBUILDER_SS_TOWN3_INH        :No. of Inhabitants: {NUM}
+STR_CITYBUILDER_SS_TOWN4_HC         :No. of Houses: {NUM}
+STR_CITYBUILDER_SS_TOWN5_EMPTY      : 
+STR_CITYBUILDER_SS_TOWN6_CI         :-= Cargo Information =-
+STR_CITYBUILDER_SS_TOWNX_CARGOLINE  :{CARGO_SHORT} / {CARGO_LONG} (Delivered), Storage: {CARGO_LONG}
+STR_CITYBUILDER_SS_TOWNX_REQLINE    :{CARGO_SHORT} / {CARGO_LONG} (Still Required), Storage: {CARGO_LONG}
+STR_CITYBUILDER_SS_TOWNY_CARGOLINE  :{CARGO_SHORT} / {CARGO_LONG} (Delivered)
+STR_CITYBUILDER_SS_TOWNY_REQLINE    :{CARGO_SHORT} / {CARGO_LONG} (Still Required)
+STR_CITYBUILDER_SS_NOTOWN           :Your company does not have a claimed town. No statistics available!
+
+STR_CITYBUILDER_CARGO_INTRO			:Towns now require {CARGO_LIST} to grow above {NUM} population!
+STR_CITYBUILDER_CARGO_TBINTRO		:Towns will require {CARGO_LIST} to grow above {NUM} population in {NUM} year{P "" s}.
+
+STR_CITYBUILDER_INFO_REQ00          :cargo #{NUM} ({CARGO_LIST}) required monthly per 1,000 pop
+
+STR_CITYBUILDER_CONF_DBGLEVEL       :Debug level
+
